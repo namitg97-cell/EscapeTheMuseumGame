@@ -1,0 +1,6 @@
+{
+  "name": "Escape the AI Museum",
+  "description": "A thrilling 90-second escape room puzzle game through the enigmatic exhibits of an artificial intelligence museum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
